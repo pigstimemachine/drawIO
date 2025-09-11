@@ -26,13 +26,13 @@
           <mxGeometry x="190" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="107uOozPipgz7Z6h9uQQ-11" value="单次测试" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="660" y="80" width="100" height="50" as="geometry" />
+          <mxGeometry x="670" y="180" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="107uOozPipgz7Z6h9uQQ-12" value="持续测试" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="660" y="150" width="100" height="50" as="geometry" />
+          <mxGeometry x="670" y="250" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="107uOozPipgz7Z6h9uQQ-13" value="00:20:00" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="660" y="210" width="100" height="20" as="geometry" />
+          <mxGeometry x="670" y="310" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GIQxAk7GhcITxaRvK07Y-1" value="USB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="190" y="340" width="120" height="60" as="geometry" />
