@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GIQxAk7GhcITxaRvK07Y-20" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="20" width="560" height="480" as="geometry" />
+        </mxCell>
         <mxCell id="107uOozPipgz7Z6h9uQQ-1" value="UART" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="330" y="180" width="120" height="60" as="geometry" />
         </mxCell>
@@ -26,13 +29,13 @@
           <mxGeometry x="190" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="107uOozPipgz7Z6h9uQQ-11" value="单次测试" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="670" y="180" width="100" height="50" as="geometry" />
+          <mxGeometry x="270" y="420" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="107uOozPipgz7Z6h9uQQ-12" value="持续测试" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="670" y="250" width="100" height="50" as="geometry" />
+          <mxGeometry x="410" y="420" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="107uOozPipgz7Z6h9uQQ-13" value="00:20:00" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="670" y="310" width="100" height="20" as="geometry" />
+          <mxGeometry x="340" y="480" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GIQxAk7GhcITxaRvK07Y-1" value="USB" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="190" y="340" width="120" height="60" as="geometry" />
@@ -42,6 +45,12 @@
         </mxCell>
         <mxCell id="GIQxAk7GhcITxaRvK07Y-3" value="SATA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="470" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GIQxAk7GhcITxaRvK07Y-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GIQxAk7GhcITxaRvK07Y-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="107uOozPipgz7Z6h9uQQ-13" target="107uOozPipgz7Z6h9uQQ-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
